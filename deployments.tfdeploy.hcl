@@ -1,4 +1,4 @@
-deployment "staging" {
+deployment "stage" {
   inputs = {
     account_id = "89012"
     region     = "us-west-1"
