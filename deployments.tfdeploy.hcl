@@ -36,3 +36,7 @@ publish_output "subnet_private_id_prod" {
 publish_output "subnet_public_id_prod" {
   value = "qweasdkjfhnewcontent!jladskjfrqwer"
 }
+
+publish_output "repro_any" {
+  value = deployment.staging.api_public_hostname
+}

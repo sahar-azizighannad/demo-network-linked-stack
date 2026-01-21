@@ -55,3 +55,8 @@ output "subnet_public_id" {
   value = component.vpc.subnet_public_id.id
   type = string
 }
+
+output "repro_null" {
+  value = null
+  type  = string
+}
