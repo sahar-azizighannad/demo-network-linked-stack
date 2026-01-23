@@ -34,5 +34,5 @@ publish_output "subnet_private_id_prod" {
 }
 
 publish_output "subnet_public_id_prod" {
-  value = "qweasdkjfhnewcontent!jladskjfrqwer"
+  value = null
 }
