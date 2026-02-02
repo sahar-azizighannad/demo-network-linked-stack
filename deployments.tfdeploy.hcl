@@ -33,6 +33,6 @@ publish_output "subnet_private_id_prod" {
   value = "asdfasdf"
 }
 
-publish_output "subnet_public_id_prod" {
-  value = "qweasdkjfhnewcontent!jladskjfrqwer"
-}
+# publish_output "subnet_public_id_prod" {
+#   value = "qweasdkjfhnewcontent!jladskjfrqwer"
+# }
