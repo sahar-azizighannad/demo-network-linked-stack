@@ -33,6 +33,6 @@ publish_output "vpc_id_prod" {
 #   value = "asdfasdffff"
 # }
 
-publish_output "subnet_public_id_prod" {
-  value = "qweasdkjfhnewcontent"
-}
+# publish_output "subnet_public_id_prod" {
+#   value = "qweasdkjfhnewcontent"
+# }
