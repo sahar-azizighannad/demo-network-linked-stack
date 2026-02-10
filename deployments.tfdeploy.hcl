@@ -29,10 +29,10 @@ publish_output "vpc_id_prod" {
   value = deployment.prod.vpc_id
 }
 
-# publish_output "subnet_private_id_prod" {
-#   value = "asdfasdffff"
-# }
+publish_output "subnet_private_id_prod" {
+  value = "asdfasdffff"
+}
 
-# publish_output "subnet_public_id_prod" {
-#   value = "qweasdkjfhnewcontent"
-# }
+publish_output "subnet_public_id_prod" {
+  value = "qweasdkjfhnewcontent"
+}
